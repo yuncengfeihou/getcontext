@@ -1,0 +1,11 @@
+{
+    "display_name": "Metadata 验证器",
+    "loading_order": 20,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "homePage": ""
+}
