@@ -2,7 +2,7 @@
 
 // 导入 getContext 函数
 // 根据你的 SillyTavern 版本和文件结构调整路径
-import { getContext } from '../../../../script.js'; // 假设 script.js 在四级目录外
+import { getContext } from "../../../extensions.js"; // 假设 script.js 在四级目录外
 
 const PLUGIN_NAME = 'getcontext';
 
